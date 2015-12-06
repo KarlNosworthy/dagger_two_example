@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="main_activity_has_been_entered">
+        <item quantity="zero">Main activity has never been entered.</item>
+        <item quantity="one">Main activity has been entered %d time.</item>
+        <item quantity="other">Main activity has been entered %d times.</item>
+    </plurals>
+
+    <plurals name="other_activity_has_been_entered">
+        <item quantity="zero">Other activity has never been entered.</item>
+        <item quantity="one">Other activity has been entered %d time.</item>
+        <item quantity="other">Other activity has been entered %d times.</item>
+    </plurals>
+</resources>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Dagger One Example</string>
+    <string name="launch_other_activity">Launch Other Activity</string>
+</resources>

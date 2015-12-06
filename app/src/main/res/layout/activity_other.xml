@@ -1,0 +1,15 @@
+<LinearLayout xmlns:tools="http://schemas.android.com/tools"
+                    tools:context=".activity.OtherActivity"
+              xmlns:android="http://schemas.android.com/apk/res/android"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+    <TextView android:id="@+id/other_entry_count_text_view"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:gravity="center"
+              android:textColor="@color/simple_text_colour"
+              android:textSize="@dimen/simple_text_size"
+              tools:text="This is where the entry count text will appear at runtime."/>
+
+</LinearLayout>
